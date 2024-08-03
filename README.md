@@ -327,20 +327,27 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～川を渡る～～～<br><br></span></h3>
 
-
+<a href="20240802_154.JPG" data-lightbox="abc"><img src="20240802_154.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_155.JPG" data-lightbox="abc"><img src="20240802_155.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>丘から見えた大きな広場<br>
 途中のスーパーで買った水とバナナでエネルギー<br>
 補給<br><br></span></h3>
 
+<a href="20240802_156.JPG" data-lightbox="abc"><img src="20240802_156.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_157.JPG" data-lightbox="abc"><img src="20240802_157.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_158.JPG" data-lightbox="abc"><img src="20240802_158.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～ホテルの反対側は別世界～～～<br><br></span></h3>
 
+<a href="20240802_159.JPG" data-lightbox="abc"><img src="20240802_159.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_160.JPG" data-lightbox="abc"><img src="20240802_160.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>工事を見てたら、作業者から<br>
 ムッシュと声をかけられる<br>
 大きな壁を外していた<br><br></span></h3>
 
+<a href="20240802_161.JPG" data-lightbox="abc"><img src="20240802_161.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～日本のニュースで見たことがある店～～～<br><br></span></h3>
 
