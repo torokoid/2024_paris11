@@ -116,12 +116,31 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>〜〜〜今いる場所の確認〜〜〜<br><br></span></h3>
 
-
+<a href="20240802_000.png" data-lightbox="abc"><img src="20240802_000.png" alt="サンプル画像" width="900" /></a>
 
 <div style="background-color:rgb(255,255,255,0.8);">
 <h3><br>午前中Lyon旧市街へ<br></h3></div>
 
-
+<a href="20240802_001.JPG" data-lightbox="abc"><img src="20240802_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_002.JPG" data-lightbox="abc"><img src="20240802_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_003.JPG" data-lightbox="abc"><img src="20240802_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_004.JPG" data-lightbox="abc"><img src="20240802_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_005.JPG" data-lightbox="abc"><img src="20240802_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_006.JPG" data-lightbox="abc"><img src="20240802_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_007.JPG" data-lightbox="abc"><img src="20240802_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_008.JPG" data-lightbox="abc"><img src="20240802_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_009.JPG" data-lightbox="abc"><img src="20240802_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_010.JPG" data-lightbox="abc"><img src="20240802_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_011.JPG" data-lightbox="abc"><img src="20240802_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_012.JPG" data-lightbox="abc"><img src="20240802_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_013.JPG" data-lightbox="abc"><img src="20240802_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_014.JPG" data-lightbox="abc"><img src="20240802_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_015.JPG" data-lightbox="abc"><img src="20240802_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_016.JPG" data-lightbox="abc"><img src="20240802_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_017.JPG" data-lightbox="abc"><img src="20240802_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_018.JPG" data-lightbox="abc"><img src="20240802_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_019.JPG" data-lightbox="abc"><img src="20240802_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_020.JPG" data-lightbox="abc"><img src="20240802_020.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>〜〜〜川を渡ると旧市街〜〜〜<br><br></span></h3>
 
