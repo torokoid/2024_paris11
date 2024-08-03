@@ -247,6 +247,8 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>〜〜〜暑いけれど、ここからの景色は素晴らしい。汗で濡れたバックパックを乾かしながら撮影〜〜〜<br><br></span></h3>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oDz7emZgZZU?si=TCb9Vv_vHLverQ59" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 <h3><span class="yellow"><br>～～～丘を下る～～～<br><br></span></h3>
