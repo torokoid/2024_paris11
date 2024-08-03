@@ -179,7 +179,26 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>〜〜〜ローマ時代の大きな劇場が組み合わさった遺跡登場〜〜〜<br><br></span></h3>
 
-
+<a href="20240802_050.JPG" data-lightbox="abc"><img src="20240802_050.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_051.JPG" data-lightbox="abc"><img src="20240802_051.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_052.JPG" data-lightbox="abc"><img src="20240802_052.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_053.JPG" data-lightbox="abc"><img src="20240802_053.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_054.JPG" data-lightbox="abc"><img src="20240802_054.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_055.JPG" data-lightbox="abc"><img src="20240802_055.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_056.JPG" data-lightbox="abc"><img src="20240802_056.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_057.JPG" data-lightbox="abc"><img src="20240802_057.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_058.JPG" data-lightbox="abc"><img src="20240802_058.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_059.JPG" data-lightbox="abc"><img src="20240802_059.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_060.JPG" data-lightbox="abc"><img src="20240802_060.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_061.JPG" data-lightbox="abc"><img src="20240802_061.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_062.JPG" data-lightbox="abc"><img src="20240802_062.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_063.JPG" data-lightbox="abc"><img src="20240802_063.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_064.JPG" data-lightbox="abc"><img src="20240802_064.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_065.JPG" data-lightbox="abc"><img src="20240802_065.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_066.JPG" data-lightbox="abc"><img src="20240802_066.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_067.JPG" data-lightbox="abc"><img src="20240802_067.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_068.JPG" data-lightbox="abc"><img src="20240802_068.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_069.JPG" data-lightbox="abc"><img src="20240802_069.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>〜〜〜暑いので木陰の山道を進む〜〜〜<br><br></span></h3>
 
