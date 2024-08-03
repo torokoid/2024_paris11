@@ -92,7 +92,7 @@ background-color: rgba(0, 225, 0, 0.6);
 </p>
 
 <!--<div style="background-color:rgb(255,255,255,0.5);">-->
-<p class="topicpath"><a href="https://torokoid.github.io/2024_paris/">2024年7月19日〜21日</a>><a href="https://torokoid.github.io/2024_paris2/">22日〜23日</a>><a href="https://torokoid.github.io/2024_paris3/">23日〜24日</a>><a href="https://torokoid.github.io/2024_paris4/">24日〜</a>><a href="https://torokoid.github.io/2024_paris5/">25日〜</a>><a href="https://torokoid.github.io/2024_paris6/">26日〜></a>><a href="https://torokoid.github.io/2024_paris7/">27日〜</a>><a href="https://torokoid.github.io/2024_paris8/">29日〜</a>><a href="https://torokoid.github.io/2024_paris9/">31日〜</a>>8月1日〜</p><!--</div>-->
+<p class="topicpath"><a href="https://torokoid.github.io/2024_paris/">2024年7月19日〜21日</a>><a href="https://torokoid.github.io/2024_paris2/">22日〜23日</a>><a href="https://torokoid.github.io/2024_paris3/">23日〜24日</a>><a href="https://torokoid.github.io/2024_paris4/">24日〜</a>><a href="https://torokoid.github.io/2024_paris5/">25日〜</a>><a href="https://torokoid.github.io/2024_paris6/">26日〜></a>><a href="https://torokoid.github.io/2024_paris7/">27日〜</a>><a href="https://torokoid.github.io/2024_paris8/">29日〜</a>><a href="https://torokoid.github.io/2024_paris9/">31日〜</a>><a href="https://torokoid.github.io/2024_paris10/">8月1日〜</a>>2日〜</p><!--</div>-->
 
 <p align="left"> <span class="yellow">&nbsp;Bruce 8月2日〜</span></p>
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
@@ -118,73 +118,127 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 
-<h3><span class="yellow"><br>9:50最初の停車。地図で見るとアンジェ。<br>
-8人くらい下車。若い客が乗車。フランスはどこにいっても街並みがいい。<br>
-お城の横を通った。しらべたら、アンジェ城。世界遺産の一部<br><br></span></h3>
+<h3><span class="yellow"><br>〜〜〜川を渡ると旧市街〜〜〜<br><br></span></h3>
 
 
 
-<h3><span class="yellow"><br>11:20大きな街トゥールに到着。駅前の狭い道の先で10人以上が下車。<br>
-同じくらい新しい客が乗せてすぐに出発。<br><br></span></h3>
+<h3><span class="yellow"><br>〜〜〜階段登場〜〜〜<br><br></span></h3>
 
 
 
-<h3><span class="yellow"><br>12:20高速サービスエリアで停車<br>
-運転手がフランス語で客に説明<br>
-何を言っているのか？<br>
-隣の席のロン毛若者に英語で話せますか？Little<br>
-25分停車するらしい。<br><br></span></h3>
+<h3><span class="yellow"><br>〜〜〜ローマ時代の大きな劇場が組み合わさった遺跡登場〜〜〜<br><br></span></h3>
 
 
 
-<h3><span class="yellow"><br>13:49バスが高速を降りた。細い道に入り駐車場で停車。<br>
-3人が乗車し、すぐに出発。地図でみるとブルージュ郊外。<br><br></span></h3>
+<h3><span class="yellow"><br>〜〜〜暑いので木陰の山道を進む〜〜〜<br><br></span></h3>
 
 
 
-<h3><span class="yellow"><br>～～～高速に戻り、しばらく、こんな景色が続きます～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～四つ星ホテルがあった。出かける客にちゃんとした英語で見送っていた。～～～<br><br></span></h3>
 
 
 
-<h3><span class="yellow"><br>15:24渋滞発生。ベーグの郊外。<br>
-路肩をゆっくりバックしながら渋滞注意を電光掲示板で促す小型車がいた。<br>
-インターチェンジがあるので自然渋滞と思われる。<br><br></span></h3>
+<h3><span class="yellow"><br>〜〜〜こちら側から見た山並み〜〜〜<br><br></span></h3>
 
 
 
-<h3><span class="yellow"><br>周りは相変わらず、こんな感じ<br>
-北海道と同じ<br>
-15:35渋滞解消。<br>
-16:20高速から降り、細い道を進む。住宅地内のバス専用駐車場到着。<br>
-10人くらい客が入れ替わった。リヨンまで2時間10分<br><br></span></h3>
+<h3><span class="yellow"><br>〜〜〜リヨンにもノートルダム大聖堂があるので、そっちへ向かう〜〜〜<br><br></span></h3>
 
 
 
-<h3><span class="yellow"><br>17:05高速出口から出ると直ぐに停車。<br>
-一人降りて二人乗車。<br>
-日本の高速バスと同じパターン<br><br>
-
-運転手が変わっていた<br><br></span></h3>
+<h3><span class="yellow"><br>〜〜〜暑いけれど、ここからの景色は素晴らしい。汗で濡れたバックパックを乾かしながら撮影〜〜〜<br><br></span></h3>
 
 
 
-<h3><span class="yellow"><br>～～～リヨン向かって一直線～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～丘を下る～～～<br><br></span></h3>
 
 
 
-<h3><span class="yellow"><br>このバスはGrenoble行き<br>
-最後の1時間は峠越え<br>
-高速からリヨンの街に入るトンネルで少しだけ渋滞<br><br></span></h3>
+<h3><span class="yellow"><br>〜〜〜キュリオシテ庭園〜〜〜<br><br></span></h3>
 
 
 
-<h3><span class="yellow"><br>リヨン到着。鉄道駅とパリ停は同じビル。<br>
-ガード下にはホームレス。<br>
-フランスのホームレスは山岳用テントで暮らしている<br><br></span></h3>
+<h3><span class="yellow"><br>〜〜〜まだまだ降りは続く〜〜〜<br><br></span></h3>
 
 
 
-<h3><span class="yellow"><br>～～～今日はホテルの部屋で缶ビール～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～降り終わった。旧市街のレストランは昼時でごったがえしていいた～～～<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>～～～かいこ～～～<br><br></span></h3>
+
+
+
+
+<h3><span class="yellow"><br>～～～旧市街から丘を見上げながら駅方面へ～～～<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>～～～暑いので教会で一休み～～～<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>～～～レコードとテープを売る屋台～～～<br><br></span></h3>
+
+
+
+<h3><span class="yellow"><br>～～～川を渡る～～～<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>丘から見えた大きな広場<br>
+途中のスーパーで買った水とバナナでエネルギー<br>
+補給<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>～～～ホテルの反対側は別世界～～～<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>工事を見てたら、作業者から<br>
+ムッシュと声をかけられる<br>
+大きな壁を外していた<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>～～～日本のニュースで見たことがある店～～～<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>～～～駅までもう一息～～～<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>シャワー浴びて、スタジアムへ<br><br>
+スタジアム往復切符を買うが自動改札ではねられる<br>
+係員が鍵を開けてホームに入れた。メキシコ人とスタジアムへ向かうことにした。<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>地下鉄からバスに乗り換え<br>
+バスは満員。エアコンの調子が悪く熱中症になりそう。おまけに渋滞。白人客が運転手に文句。<br>
+最悪、窓を破れば出れるが、熱中症で亡くなる幼児になった感あり。<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>ここから、スタジアム行きの路面電車に乗る。<br>
+購入した往復切符をハンディスキャナーで読ませたら緑ランプ。<br>
+スタジアムまで後少し。君が代には間に合わない。<br>
+セキュリティチェックで長い列。<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>～～～前半31分やっとスタジアムに入れた。日本、先制され0-1～～～<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>後半曇って直射日光は遮られた<br>
+日本逆転ゴールを期待して後半は席移動<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>シュート力の差が出て惨敗<br>
+マルセイユ行き消滅<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>リヨンにもう一つ大きな駅あり<br>
+路面電車からメトロの駅まで歩いた<br><br>
+
+この写真をあげようとしたら<br>
+wifiが繋がらない。フロントに聞いたら、ログインユーザー名とパスワードが変わっていた<br>
+セキュリティ的には正しいが面倒<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>～～～おしまい。6:00発のバスでパリに向かいます。以上～～～<br><br></span></h3>
+
 
 
 
