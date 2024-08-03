@@ -202,7 +202,12 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>〜〜〜暑いので木陰の山道を進む〜〜〜<br><br></span></h3>
 
-
+<a href="20240802_070.JPG" data-lightbox="abc"><img src="20240802_070.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_071.JPG" data-lightbox="abc"><img src="20240802_071.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_072.JPG" data-lightbox="abc"><img src="20240802_072.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_073.JPG" data-lightbox="abc"><img src="20240802_073.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_074.JPG" data-lightbox="abc"><img src="20240802_074.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_075.JPG" data-lightbox="abc"><img src="20240802_075.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～四つ星ホテルがあった。出かける客にちゃんとした英語で見送っていた。～～～<br><br></span></h3>
 
