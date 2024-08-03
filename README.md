@@ -113,6 +113,11 @@ background-color: rgba(0, 225, 0, 0.6);
 男子スペインと女子アメリカに<br>
 勝ったら、パリ五輪が終わるまでいます。<br><br></span></h3>
 
+
+<h3><span class="yellow"><br>〜〜〜今いる場所の確認〜〜〜<br><br></span></h3>
+
+
+
 <div style="background-color:rgb(255,255,255,0.8);">
 <h3><br>午前中Lyon旧市街へ<br></h3></div>
 
