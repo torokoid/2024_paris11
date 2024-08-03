@@ -388,9 +388,16 @@ background-color: rgba(0, 225, 0, 0.6);
 スタジアムまで後少し。君が代には間に合わない。<br>
 セキュリティチェックで長い列。<br><br></span></h3>
 
+<a href="20240802_180.JPG" data-lightbox="abc"><img src="20240802_180.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_181.JPG" data-lightbox="abc"><img src="20240802_181.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_182.JPG" data-lightbox="abc"><img src="20240802_182.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_183.JPG" data-lightbox="abc"><img src="20240802_183.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_184.JPG" data-lightbox="abc"><img src="20240802_184.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_185.JPG" data-lightbox="abc"><img src="20240802_185.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～前半31分やっとスタジアムに入れた。日本、先制され0-1～～～<br><br></span></h3>
 
+<a href="20240802_186.JPG" data-lightbox="abc"><img src="20240802_186.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>後半曇って直射日光は遮られた<br>
 日本逆転ゴールを期待して後半は席移動<br><br></span></h3>
