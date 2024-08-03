@@ -211,11 +211,17 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～四つ星ホテルがあった。出かける客にちゃんとした英語で見送っていた。～～～<br><br></span></h3>
 
-
+<a href="20240802_076.JPG" data-lightbox="abc"><img src="20240802_076.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_077.JPG" data-lightbox="abc"><img src="20240802_077.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>〜〜〜こちら側から見た山並み〜〜〜<br><br></span></h3>
 
-
+<a href="20240802_078.JPG" data-lightbox="abc"><img src="20240802_078.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_079.JPG" data-lightbox="abc"><img src="20240802_079.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_080.JPG" data-lightbox="abc"><img src="20240802_080.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_081.JPG" data-lightbox="abc"><img src="20240802_081.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_082.JPG" data-lightbox="abc"><img src="20240802_082.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_083.JPG" data-lightbox="abc"><img src="20240802_083.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>〜〜〜リヨンにもノートルダム大聖堂があるので、そっちへ向かう〜〜〜<br><br></span></h3>
 
