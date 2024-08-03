@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/2024_paris11/20240802_099.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/2024_paris11/20240802_193.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -101,7 +101,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h2><span class="yellow"><marquee behavior="left">!!! リヨン市内を探索 !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!! リヨン市内を探索、背景はLyon市内のノートルダム大聖堂 !!!</marquee></span></h2>
 <!--
 <div id="wrap">
 -->
