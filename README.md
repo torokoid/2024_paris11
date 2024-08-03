@@ -356,8 +356,8 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240802_164.JPG" data-lightbox="abc"><img src="20240802_164.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～駅までもう一息～～～<br><br></span></h3>
-
-<a href="20240802_165.JPG" data-lightbox="abc"><img src="20240802_165.JPG" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="20240802_165.JPG" data-lightbox="abc"><img src="20240802_165.JPG" alt="サンプル画像" width="900" /></a>-->
 <a href="20240802_166.JPG" data-lightbox="abc"><img src="20240802_166.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240802_167.JPG" data-lightbox="abc"><img src="20240802_167.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240802_168.JPG" data-lightbox="abc"><img src="20240802_168.JPG" alt="サンプル画像" width="900" /></a>
