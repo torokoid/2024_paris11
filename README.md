@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/2024_paris11/20240802_000.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/2024_paris11/20240802_099.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -225,7 +225,25 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>〜〜〜リヨンにもノートルダム大聖堂があるので、そっちへ向かう〜〜〜<br><br></span></h3>
 
-
+<a href="20240802_084.JPG" data-lightbox="abc"><img src="20240802_084.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_085.JPG" data-lightbox="abc"><img src="20240802_085.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_086.JPG" data-lightbox="abc"><img src="20240802_086.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_087.JPG" data-lightbox="abc"><img src="20240802_087.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_088.JPG" data-lightbox="abc"><img src="20240802_088.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_089.JPG" data-lightbox="abc"><img src="20240802_089.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_090.JPG" data-lightbox="abc"><img src="20240802_090.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_091.JPG" data-lightbox="abc"><img src="20240802_091.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_092.JPG" data-lightbox="abc"><img src="20240802_092.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_093.JPG" data-lightbox="abc"><img src="20240802_093.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_094.JPG" data-lightbox="abc"><img src="20240802_094.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_095.JPG" data-lightbox="abc"><img src="20240802_095.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_096.JPG" data-lightbox="abc"><img src="20240802_096.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_097.JPG" data-lightbox="abc"><img src="20240802_097.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_098.JPG" data-lightbox="abc"><img src="20240802_098.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_099.JPG" data-lightbox="abc"><img src="20240802_099.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_100.JPG" data-lightbox="abc"><img src="20240802_100.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_101.JPG" data-lightbox="abc"><img src="20240802_101.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_102.JPG" data-lightbox="abc"><img src="20240802_102.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>〜〜〜暑いけれど、ここからの景色は素晴らしい。汗で濡れたバックパックを乾かしながら撮影〜〜〜<br><br></span></h3>
 
