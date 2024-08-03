@@ -282,20 +282,29 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>〜〜〜まだまだ降りは続く〜〜〜<br><br></span></h3>
 
-
+<a href="20240802_127.JPG" data-lightbox="abc"><img src="20240802_127.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_128.JPG" data-lightbox="abc"><img src="20240802_128.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_129.JPG" data-lightbox="abc"><img src="20240802_129.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_130.JPG" data-lightbox="abc"><img src="20240802_130.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_131.JPG" data-lightbox="abc"><img src="20240802_131.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_132.JPG" data-lightbox="abc"><img src="20240802_132.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～降り終わった。旧市街のレストランは昼時でごったがえしていいた～～～<br><br></span></h3>
 
+<a href="20240802_133.JPG" data-lightbox="abc"><img src="20240802_133.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_134.JPG" data-lightbox="abc"><img src="20240802_134.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～かいこ～～～<br><br></span></h3>
 
-
-
+<a href="20240802_135.JPG" data-lightbox="abc"><img src="20240802_135.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_136.JPG" data-lightbox="abc"><img src="20240802_136.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～旧市街から丘を見上げながら駅方面へ～～～<br><br></span></h3>
 
 
+
 <h3><span class="yellow"><br>～～～暑いので教会で一休み～～～<br><br></span></h3>
+
 
 
 <h3><span class="yellow"><br>～～～レコードとテープを売る屋台～～～<br><br></span></h3>
