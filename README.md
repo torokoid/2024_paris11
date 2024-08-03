@@ -269,7 +269,16 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>〜〜〜キュリオシテ庭園〜〜〜<br><br></span></h3>
 
-
+<a href="20240802_117.JPG" data-lightbox="abc"><img src="20240802_117.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_118.JPG" data-lightbox="abc"><img src="20240802_118.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_119.JPG" data-lightbox="abc"><img src="20240802_119.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_120.JPG" data-lightbox="abc"><img src="20240802_120.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_121.JPG" data-lightbox="abc"><img src="20240802_121.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_122.JPG" data-lightbox="abc"><img src="20240802_122.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_123.JPG" data-lightbox="abc"><img src="20240802_123.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_124.JPG" data-lightbox="abc"><img src="20240802_124.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_125.JPG" data-lightbox="abc"><img src="20240802_125.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_126.JPG" data-lightbox="abc"><img src="20240802_126.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>〜〜〜まだまだ降りは続く〜〜〜<br><br></span></h3>
 
