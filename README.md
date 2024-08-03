@@ -351,19 +351,37 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～日本のニュースで見たことがある店～～～<br><br></span></h3>
 
+<a href="20240802_162.JPG" data-lightbox="abc"><img src="20240802_162.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_163.JPG" data-lightbox="abc"><img src="20240802_163.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_164.JPG" data-lightbox="abc"><img src="20240802_164.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～駅までもう一息～～～<br><br></span></h3>
 
+<a href="20240802_165.JPG" data-lightbox="abc"><img src="20240802_165.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_166.JPG" data-lightbox="abc"><img src="20240802_166.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_167.JPG" data-lightbox="abc"><img src="20240802_167.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_168.JPG" data-lightbox="abc"><img src="20240802_168.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_169.JPG" data-lightbox="abc"><img src="20240802_169.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_170.JPG" data-lightbox="abc"><img src="20240802_170.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_171.JPG" data-lightbox="abc"><img src="20240802_171.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_172.JPG" data-lightbox="abc"><img src="20240802_172.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_173.JPG" data-lightbox="abc"><img src="20240802_173.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_174.JPG" data-lightbox="abc"><img src="20240802_174.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_175.JPG" data-lightbox="abc"><img src="20240802_175.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_176.JPG" data-lightbox="abc"><img src="20240802_176.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_177.JPG" data-lightbox="abc"><img src="20240802_177.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>シャワー浴びて、スタジアムへ<br><br>
 スタジアム往復切符を買うが自動改札ではねられる<br>
 係員が鍵を開けてホームに入れた。メキシコ人とスタジアムへ向かうことにした。<br><br></span></h3>
 
+<a href="20240802_178.JPG" data-lightbox="abc"><img src="20240802_178.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>地下鉄からバスに乗り換え<br>
 バスは満員。エアコンの調子が悪く熱中症になりそう。おまけに渋滞。白人客が運転手に文句。<br>
 最悪、窓を破れば出れるが、熱中症で亡くなる幼児になった感あり。<br><br></span></h3>
 
+<a href="20240802_179.JPG" data-lightbox="abc"><img src="20240802_179.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>ここから、スタジアム行きの路面電車に乗る。<br>
 購入した往復切符をハンディスキャナーで読ませたら緑ランプ。<br>
