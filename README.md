@@ -402,10 +402,16 @@ background-color: rgba(0, 225, 0, 0.6);
 <h3><span class="yellow"><br>後半曇って直射日光は遮られた<br>
 日本逆転ゴールを期待して後半は席移動<br><br></span></h3>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u0xGexkFGGo?si=lz6PmHcV7mhfTrz9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<a href="20240802_187.JPG" data-lightbox="abc"><img src="20240802_187.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_188.JPG" data-lightbox="abc"><img src="20240802_188.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>シュート力の差が出て惨敗<br>
 マルセイユ行き消滅<br><br></span></h3>
 
+<a href="20240802_189.JPG" data-lightbox="abc"><img src="20240802_189.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_190.JPG" data-lightbox="abc"><img src="20240802_190.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>リヨンにもう一つ大きな駅あり<br>
 路面電車からメトロの駅まで歩いた<br><br>
@@ -414,6 +420,8 @@ background-color: rgba(0, 225, 0, 0.6);
 wifiが繋がらない。フロントに聞いたら、ログインユーザー名とパスワードが変わっていた<br>
 セキュリティ的には正しいが面倒<br><br></span></h3>
 
+<a href="20240802_191.JPG" data-lightbox="abc"><img src="20240802_191.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240802_192.JPG" data-lightbox="abc"><img src="20240802_192.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～おしまい。6:00発のバスでパリに向かいます。以上～～～<br><br></span></h3>
 
